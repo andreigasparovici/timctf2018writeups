@@ -1,3 +1,5 @@
+SSS - Part 1
+=====
 * Tools used: Python
 
 SSS = Shamir Secret Sharing

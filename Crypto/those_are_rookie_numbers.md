@@ -1,3 +1,5 @@
+Those are Rookie Numbers
+====
 * Tools used: Python, [Integer factorization calculator](https://www.alpertron.com.ar/ECM.HTM)
 
 This is basically just breaking RSA by factoring the n. Using [Integer factorization calculator](https://www.alpertron.com.ar/ECM.HTM) we found that n can be written as 176773485669509339371361332756951225661 * 333197218785800427026869958933009188427.

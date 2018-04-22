@@ -1,3 +1,5 @@
+SSS - Part 2
+=====
 We found that the given implementation of the SSS scheme had a major flow: the coefficients of the polynomials were the same for all the parts of the secret. Therefore, we could find a linear dependence between the parts of the secret:
 
 Let f(x) denote the value of the polynomial computed for x. We have:

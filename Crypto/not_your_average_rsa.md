@@ -1,3 +1,5 @@
+Not your average RSA
+=====
 Same as _Those Are Rookie Numbers_, this challenge required breaking the RSA by factoring n. In this case however, n was a product of multiple primes, so we implemented a multi-prime RSA:
 
 ```python
