@@ -1,3 +1,6 @@
+Substitute teacher
+=====
+
 * Tools used: Python, pen & paper
 
 We observed that the given text was enciphered using a substitution ciper on the lowercase letters. So, we looked for clues about the permutation applied.
