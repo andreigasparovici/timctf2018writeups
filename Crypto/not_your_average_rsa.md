@@ -58,3 +58,8 @@ m = logpw(c, d, n) # original message
 
 print get_string(m)
 ```
+
+We got:
+```
+timctf{mUlt1_PriM3_rS4_c0ULD_B3_DAngEr0us}
+```
