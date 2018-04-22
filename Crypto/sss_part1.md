@@ -14,3 +14,8 @@ secret = secretsharing.SecretSharer.recover_secret(shares)
 
 print secret.decode('hex')
 ```
+
+We got:
+```
+timctf{b4s1C_l4gr4ng3_1NTerP0LatioN}
+```
