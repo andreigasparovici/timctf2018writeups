@@ -51,7 +51,7 @@ static void create_PDFWithFormValidation() {
 }
 ```
 
-It is easy to observe the variable __dlink__, which is not used throught the script.
+It is easy to observe the variable __dlink__, which is not used throughout the script.
 Following the link, we get a string which looks like a reversed base64.
 
 We reversed it and wrote the decoded bytes to an image file:
