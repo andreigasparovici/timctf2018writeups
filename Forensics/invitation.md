@@ -68,4 +68,4 @@ The generated image had the flag:
 
 ```
 timctf{h4ck_for_4_l1v1ng_pl4net}
-``
+```
